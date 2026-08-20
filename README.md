@@ -28,8 +28,7 @@ Home labs I built and documented, focused on real IT-support scenarios:
 | [active-directory-lab](https://github.com/leo1099orellana/active-directory-lab) | Windows Server 2022 Active Directory — deployment, administration, DNS/connectivity troubleshooting |
 | [zabbix-monitoring-lab](https://github.com/leo1099orellana/zabbix-monitoring-lab) | Infrastructure monitoring with Zabbix 7.0 LTS on Debian 13 — alerting & threshold tuning |
 
-**Coming soon:** a Linux support lab and a networking troubleshooting lab.
-
+**Coming soon:** a networking troubleshooting lab.
 ---
 
 ### 📫 Contact

@@ -27,8 +27,8 @@ Home labs I built and documented, focused on real IT-support scenarios:
 | [jira-servicedesk-lab](https://github.com/leo1099orellana/jira-servicedesk-lab) | Help desk ticketing in Jira Cloud — incident & request workflow, including an offline-PC troubleshooting case |
 | [active-directory-lab](https://github.com/leo1099orellana/active-directory-lab) | Windows Server 2022 Active Directory — deployment, administration, DNS/connectivity troubleshooting |
 | [zabbix-monitoring-lab](https://github.com/leo1099orellana/zabbix-monitoring-lab) | Infrastructure monitoring with Zabbix 7.0 LTS on Debian 13 — alerting & threshold tuning |
+| [linux-soporte-lab](https://github.com/leo1099orellana/linux-soporte-lab) | Hands-on Linux for support — files, permissions, packages, logs, and real error troubleshooting |
 
-**Coming soon:** a networking troubleshooting lab.
 ---
 
 ### 📫 Contact

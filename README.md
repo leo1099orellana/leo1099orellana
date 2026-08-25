@@ -1,7 +1,6 @@
 # Hi, I'm Leonel 👋
 
-**IT Support / Help Desk (N1–N2)**, IT Support / Help Desk (N1–N2), focused on IT infrastructure and support — based in Buenos Aires (GBA Sur), Argentina.
-
+IT Support / Help Desk (N1–N2), focused on IT infrastructure and support — based in Buenos Aires (GBA Sur), Argentina.
 I come from hands-on fiber-optics field work and customer service, and I'm moving into IT support by building and documenting my own home labs. I like troubleshooting real problems and writing them down clearly — because good documentation is half the job in support.
 
 Right now I'm studying **Linux** and **English**

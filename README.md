@@ -10,7 +10,7 @@ Right now I'm studying **Linux** and **English**
 ### 🛠️ Tools & Skills
 
 - **Operating systems:** Linux (Debian / Ubuntu), Windows Server 2022
-- **Support / ITSM:** Jira Service Desk, ticketing workflows, incident & request handling
+- **Support / ITSM:** Jira Service Desk, ticketing workflows, Google Workspace (user & console basics). incident & request handling
 - **Infrastructure & monitoring:** Active Directory, DNS, Zabbix
 - **Networking:** TCP/IP fundamentals, connectivity troubleshooting, fiber optics (physical layer)
 - **Security:** CompTIA Security+ (SY0-701) — in progress / exam scheduled
